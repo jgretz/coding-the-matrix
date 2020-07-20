@@ -56,7 +56,7 @@
     "formik": "^2.1.4",
     "fp-ts": "^2.5.3",
     "history": "^4.10.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mathjs": "^6.6.3",
     "notistack": "^0.9.9",
     "prop-types": "^15.7.2",
